@@ -3,7 +3,7 @@
 This is the repo for the paper [A Comparative Study on Reasoning Patterns of OpenAI's o1 Model](https://arxiv.org/pdf/2410.13639).
 
 <div align="center">
-<img src=./figures/main_result.png width=40% />
+<img src=./figures/main_result.png width=70% />
 </div>
 
 Enabling Large Language Models (LLMs) to handle a wider range of complex tasks (e.g., coding, math) has drawn great attention from many researchers. 
@@ -22,11 +22,11 @@ Fourth,
 we summarize six reasoning patterns of o1 and provide a detailed analysis across different reasoning benchmarks.
 
 <div align="center">
-<img src=./figures/pattern_analysis.png width=40% />
+<img src=./figures/pattern_analysis.png width=60% />
 </div>
 
 <div align="center">
-<img src=./figures/result.png width=40% />
+<img src=./figures/result.png width=60% />
 </div>
 
 ## Dataset
