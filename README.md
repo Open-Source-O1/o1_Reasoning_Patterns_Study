@@ -35,9 +35,9 @@ Our filtered data can be found in this repo: [data](https://github.com/Open-Sour
 ## Running
 You can run the run.sh to reproduce the results on our main table.
 
-'''
+```python
 bash run.sh
-'''
+```
 
 You can change the '--N' and 'step_wise_type' and 'dataset_name' to obtain the results at different settings.
 
