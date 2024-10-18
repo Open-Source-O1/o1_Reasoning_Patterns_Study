@@ -44,3 +44,7 @@ You can change the '--N' and 'step_wise_type' and 'dataset_name' to obtain the r
 As for the evaluation of the Code task result (USACO), we are organizing this part of the code.
 As for Self-Refine, we use the code from [Self-Refine](https://github.com/madaan/self-refine).
 As for the Agent Workflow, we utilize the state-of-the-art agent framework [Agents 2.0: Symbolic Learning Enables Self-Evolving Agents](https://github.com/aiwaves-cn/agents) on the HotpotQA and Collie, and we use the [GPTs](https://openai.com/index/introducing-gpts/) for USACO and AIME.
+
+## Results in Our Paper
+
+We will release the output files of our main results soon ...
