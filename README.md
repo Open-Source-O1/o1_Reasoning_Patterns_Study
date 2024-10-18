@@ -1,6 +1,10 @@
 # o1_Reasoning_Patterns_Study
 
-This is the repo for the paper 'A Comparative Study on Reasoning Patterns of OpenAI's o1 Model'. We also provide the pdf of this paper in the repo: [paper](https://arxiv.org/pdf/2410.13639).
+This is the repo for the paper [A Comparative Study on Reasoning Patterns of OpenAI's o1 Model](https://arxiv.org/pdf/2410.13639).
+
+<div align="center">
+<img src=./figures/main_result.png width=40% />
+</div>
 
 Enabling Large Language Models (LLMs) to handle a wider range of complex tasks (e.g., coding, math) has drawn great attention from many researchers. 
 As LLMs continue to evolve, increasing the number of model parameters yields diminishing performance improvements and heavy computational costs.
@@ -17,6 +21,13 @@ as for the methods that break the problem into many sub-problems, the Agent Work
 Fourth,
 we summarize six reasoning patterns of o1 and provide a detailed analysis across different reasoning benchmarks.
 
+<div align="center">
+<img src=./figures/pattern_analysis.png width=40% />
+</div>
+
+<div align="center">
+<img src=./figures/result.png width=40% />
+</div>
 
 ## Dataset
 Our filtered data can be found in this repo: [data](https://github.com/Open-Source-O1/o1_Reasoning_Patterns_Study/tree/main/data).
