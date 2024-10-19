@@ -48,3 +48,14 @@ As for the Agent Workflow, we utilize the state-of-the-art agent framework [Agen
 ## Results in Our Paper
 
 We will release the output files of our main results soon ...
+
+## Citation
+
+```python
+@article{qu2024overview,
+  title={Overview of the NLPCC 2024 Shared Task on Chinese Metaphor Generation},
+  author={Qu, Xingwei and Zhang, Ge and Wu, Siwei and Li, Yizhi and Lin, Chenghua},
+  journal={arXiv preprint arXiv:2408.04378},
+  year={2024}
+}
+```
