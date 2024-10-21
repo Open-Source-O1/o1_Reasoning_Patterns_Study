@@ -32,6 +32,16 @@ we summarize six reasoning patterns of o1 and provide a detailed analysis across
 ## Dataset
 Our filtered data can be found in this repo: [data](https://github.com/Open-Source-O1/o1_Reasoning_Patterns_Study/tree/main/data).
 
+Besides, we also upload those data into hf dataset. It can be used by the following code:
+
+```python
+from datasets import load_dataset
+data = load_dataset('SiweiWu/o1_Reasoning_Patterns_Study')
+```
+
+However, excepting the text data, the Collie also provides functions that can be directly used to evaluate the generated responses of LLMs and it cannot be upload into the hf dataset.
+Therefore, as for the collie dataset, we remain suggesting you load the data in the github fold [data](https://github.com/Open-Source-O1/o1_Reasoning_Patterns_Study/tree/main/data).
+
 ## Running
 You can run the run.sh to reproduce the results on our main table.
 
