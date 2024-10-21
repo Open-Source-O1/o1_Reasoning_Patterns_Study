@@ -39,8 +39,8 @@ from datasets import load_dataset
 data = load_dataset('SiweiWu/o1_Reasoning_Patterns_Study')
 ```
 
-However, excepting the text data, the Collie also provides functions that can be directly used to evaluate the generated responses of LLMs and it cannot be upload into the hf dataset.
-Therefore, as for the collie dataset, we remain suggesting you load the data in the github fold [data](https://github.com/Open-Source-O1/o1_Reasoning_Patterns_Study/tree/main/data).
+However, apart from the text data, Collie also provides functions that can be directly used to evaluate the generated responses of LLMs, but it cannot be uploaded to the HF dataset. Therefore, for the Collie dataset, we still suggest that you load the data from the GitHub folder [data](https://github.com/Open-Source-O1/o1_Reasoning_Patterns_Study/tree/main/data).
+
 
 ## Running
 You can run the run.sh to reproduce the results on our main table.
