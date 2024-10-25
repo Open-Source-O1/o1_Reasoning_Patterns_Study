@@ -57,7 +57,12 @@ As for the Agent Workflow, we utilize the state-of-the-art agent framework [Agen
 
 ## Results in Our Paper
 
-We will release the output files of our main results soon ...
+The results of all settings in the main table are released in hf_dataset in a zip format: (data)[https://huggingface.co/datasets/SiweiWu/o1_analysis_results/blob/main/results.zip].
+You can download it by using the following code:
+
+```python
+wget https://huggingface.co/datasets/SiweiWu/o1_analysis_results/blob/main/results.zip
+```
 
 ## Citation
 
