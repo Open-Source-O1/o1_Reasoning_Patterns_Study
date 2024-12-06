@@ -67,10 +67,10 @@ wget https://huggingface.co/datasets/SiweiWu/o1_analysis_results/blob/main/resul
 ## Citation
 
 ```python
-@article{qu2024overview,
-  title={Overview of the NLPCC 2024 Shared Task on Chinese Metaphor Generation},
-  author={Qu, Xingwei and Zhang, Ge and Wu, Siwei and Li, Yizhi and Lin, Chenghua},
-  journal={arXiv preprint arXiv:2408.04378},
+@article{wu2024comparative,
+  title={A Comparative Study on Reasoning Patterns of OpenAI's o1 Model},
+  author={Wu, Siwei and Peng, Zhongyuan and Du, Xinrun and Zheng, Tuney and Liu, Minghao and Wu, Jialong and Ma, Jiachen and Li, Yizhi and Yang, Jian and Zhou, Wangchunshu and others},
+  journal={arXiv preprint arXiv:2410.13639},
   year={2024}
 }
 ```
